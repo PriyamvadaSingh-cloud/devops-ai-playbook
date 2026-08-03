@@ -24,3 +24,4 @@ data:
     -- Seed data for demo
     \c auth_db
     INSERT INTO users(name, email) VALUES('Alice','alice@example.com'),('Bob','bob@example.com');
+

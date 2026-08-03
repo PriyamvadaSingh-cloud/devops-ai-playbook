@@ -61,6 +61,7 @@ module "argocd" {
     helm       = helm.eks
   }
 
+
   depends_on = [module.eks]
 }
 

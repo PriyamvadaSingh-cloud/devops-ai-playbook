@@ -93,3 +93,4 @@ jobs:
           git diff --staged --quiet || git commit -m "ci: update image tags to ${{ github.sha }}"
           git push
 
+

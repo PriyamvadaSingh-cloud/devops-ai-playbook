@@ -71,3 +71,4 @@ spec:
         - name: dump
           configMap:
             name: boutique-db-dump
+

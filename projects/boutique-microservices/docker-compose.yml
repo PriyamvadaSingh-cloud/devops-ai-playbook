@@ -212,3 +212,4 @@ volumes:
 networks:
   boutique-network:
     driver: bridge
+
